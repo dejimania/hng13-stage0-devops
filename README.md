@@ -1,5 +1,7 @@
-**Name:** Kamil Balogun
-**Slack Username:** @djcalm
+**Name:** Kamil Balogun  
+**Slack Username:** @djcalm  
+
+---
 
 ## Short Project Description 
 This DevOps project deploy an **NGINX web server** that serves a **custom internet-facing webpage**.  
