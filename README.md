@@ -19,13 +19,13 @@ Key highlights:
 ---
 
 ## 🌍 Server Information
-**Server IP Address:** `192.168.1.100`  
+**Server IP Address:** `167.172.207.162`  
 
 ---
 
 ## 🚀 How to Access
 You can access the deployed webpage via your web browser using the server’s IP address:  
-👉 [http://192.168.1.100](http://192.168.1.100) *(To be change when deployed)*
+👉 [http://167.172.207.162](http://167.172.207.162)
 
 ---
 
